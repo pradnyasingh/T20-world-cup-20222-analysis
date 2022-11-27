@@ -1,4 +1,4 @@
-# T20-world-cup-20222-analysis
+# T20-world-cup-2022-analysis
 
 The dataset is about highest runs scorer in T20 World Cup 2022.
 In dataset there are 50 rows and 12 columns are included. columns as follow:
